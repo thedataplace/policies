@@ -293,12 +293,12 @@ If you have any concerns about The Data Place, and its work, these should be rai
 If you wish to resign you must give the required written notice to your line manager as stated in your contract of employment. If The Data Place decides to terminate your employment you will be notified in writing.
 
 Unless your written statement of your main terms and conditions of employment specifies longer periods of notice, the minimum periods of notice are:
-|Length of continuous service|Notice entitlement
-|-----|-----|-----|
-More than one month but less than two years|One week
-More than two years but less than three years|Two weeks
-More than three years but less than four years and so on with an extra week for each year up to 12 years|Three weeks
-More than 12 years|12 weeks
+| Length of continuous service | Notice entitlement |
+| ----- | ----- |
+| More than one month but less than two years | One week |
+| More than two years but less than three years | Two weeks |
+| More than three years but less than four years and so on with an extra week for each year up to 12 years | Three weeks |
+| More than 12 years | 12 weeks |
 
 The Data Place may give the equivalent pay in lieu of notice.
 On leaving The Data Place, you must return all items of the comapny’s property eg. mobile phone, laptop, documentation. Failure to do so may incur a deduction from your final salary payment.
