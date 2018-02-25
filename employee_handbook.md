@@ -25,25 +25,25 @@ The Company believes that the working environment should at all times be support
 #### What and How of Harassment
 Sexual harassment is defined as “unwanted conduct of a sexual nature, or other conduct based on sex, affecting the dignity of women and men at work”.  This can include unwelcome physical, verbal or non-verbal conduct.  
 Harassment can be defined as conduct, which is unwanted and offensive and affects the dignity of an individual or group of individuals. People can be subject to harassment on a wide variety of grounds including:
- - race, ethnic origin, nationality or skin colour
- - sex or sexual orientation
- - religious or political convictions
- - willingness to challenge harassment, leading to victimisation 
- - disabilities, sensory impairments or learning difficulties
- - status as ex-offenders
- - age
- - real or suspected infection with a blood borne virus (eg AIDS/HIV) 
- - membership of a trade union or activities associated with membership  
+- race, ethnic origin, nationality or skin colour
+- sex or sexual orientation
+- religious or political convictions
+- willingness to challenge harassment, leading to victimisation 
+- disabilities, sensory impairments or learning difficulties
+- status as ex-offenders
+- age
+- real or suspected infection with a blood borne virus (eg AIDS/HIV) 
+- membership of a trade union or activities associated with membership  
 Forms may include:
- - physical contact ranging from touching to serious assault
- - verbal and written harassment through jokes, offensive language, gossip and slander, sectarian songs, letters and so on
- - visual display of posters, graffiti, obscene gestures, flags and emblems
- - isolation or non-cooperation at work, exclusion from social activities
- - coercion ranging from pressure for sexual favours to pressure to participate in political/religious groups
- - intrusion by pestering, spying, following someone
- - bullying
- - real or suspected infection with a blood borne virus (eg AIDS/HIV) 
- - membership of a trade union or activities associated with membership  
+- physical contact ranging from touching to serious assault
+- verbal and written harassment through jokes, offensive language, gossip and slander, sectarian songs, letters and so on
+- visual display of posters, graffiti, obscene gestures, flags and emblems
+- isolation or non-cooperation at work, exclusion from social activities
+- coercion ranging from pressure for sexual favours to pressure to participate in political/religious groups
+- intrusion by pestering, spying, following someone
+- bullying
+- real or suspected infection with a blood borne virus (eg AIDS/HIV) 
+- membership of a trade union or activities associated with membership.
 If you feel you are being harassed you are strongly encouraged to seek early advice/support from your line manager. If your feel your line manager is harassing you, then you should contact his/her immediate line manager.  
 You should also keep a written record detailing the incidents of harassment and any requests made to the harasser to stop.  This written record should be made as soon as possible after the events giving rise to concern and should include dates, times, places and the circumstances of what happened.  
 The Data Place has a formal procedure for dealing with these issues which you can obtain from your line manager.
