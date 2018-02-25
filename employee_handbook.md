@@ -43,7 +43,8 @@ Forms may include:
 - intrusion by pestering, spying, following someone
 - bullying
 - real or suspected infection with a blood borne virus (eg AIDS/HIV) 
-- membership of a trade union or activities associated with membership.
+- membership of a trade union or activities associated with membership.  
+
 If you feel you are being harassed you are strongly encouraged to seek early advice/support from your line manager. If your feel your line manager is harassing you, then you should contact his/her immediate line manager.  
 You should also keep a written record detailing the incidents of harassment and any requests made to the harasser to stop.  This written record should be made as soon as possible after the events giving rise to concern and should include dates, times, places and the circumstances of what happened.  
 The Data Place has a formal procedure for dealing with these issues which you can obtain from your line manager.
