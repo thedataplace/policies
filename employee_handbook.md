@@ -107,7 +107,7 @@ Certain employees of The Data Place may be required to undergo a criminal record
 Your prime source of information about your role or the organisation is your line manager. It is part of his or her job to inform, answer questions and listen to constructive opinions, comments or suggestions. In addition, we have regular staff meeting and team meetings.  
 
 ### Task and project management
-Projects are logged, managed and maonitored using Asana. When you join The Data Place you will be added to the Asana organisation and any set tasks will be allocated to you there after being discussed and assigned with your line manager. We ask all staff and contractors to log in to Asana and check for tasks and queries each work day, and we expect everyone to deal promptly with items in their inbox or on their task list.  
+Projects are logged, managed and monitored using Asana. When you join The Data Place you will be added to the Asana organisation and any set tasks will be allocated to you there after being discussed and assigned with your line manager. We ask all staff and contractors to log in to Asana and check for tasks and queries each work day, and we expect everyone to deal promptly with items in their inbox or on their task list.  
 
 ## Pay
 ### Contractor payments
