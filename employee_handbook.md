@@ -6,7 +6,7 @@ This Employee Handbook will be updated as and when changes occur.
 
 ## Fair Working Commitment
 As a social enterprise, The Data Place is serious about helping end inequality of access to technology and data as a prerequisite for a fairer society in other ways. To this end we take a positive approach to issues such as:
-- remuneration (paying staff at least a Living Wage and not discriminating agaionst any specific group in this respect)
+- remuneration (paying staff at least a Living Wage and not discriminating against any specific group in this respect)
 - improving the wider diversity of our staff by being positive about employing those under-represented in the technology industry, such as older people, women, those from BAME backgrounds, those with disabilities, including mental health, and LGBT candidates
 - providing ongoing development for staff in both training and development opportunities
 - allowing Trade Union representation, even for staff employed as contractors, and having processes in place to ensure that staff have independent authorities to appeal to in case of any problems
