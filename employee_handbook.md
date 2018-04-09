@@ -127,48 +127,48 @@ Paid breaks are included in the standard working day, to a total of 1 hour per f
 Where employees are authorised to work on behalf of The Data Place in addition to contractual hours, time off in lieu (TOIL) will be allowed. All work carried on outside of normal contractual hours must be authorised in advance. Where TOIL is accrued, compensating time off should be taken as soon as possible in order to avoid build up.  
 TOIL accrued in the evening will be accrued at single time and TOIL accrued at weekends/ Public Holidays will be accrued at time and a half.  
 
-##Contractor provisions
-###Contracts and payment
+## Contractor provisions
+### Contracts and payment
 There’s a standard contract available and we will agree invoicing and payment schedules at the beginning of the contract. We’ll pay you within 7 days of your invoice and we won’t hire you unless we have the money to pay you.
 
-###Hours
+### Hours
 Contractors are paid for the hours they do, and if they do more because we’ve asked them to, we’ll compensate them. Having said that, we’ll never commit you to doing more than 40 hours a week and if there’s a crunch on, you get TOIL afterwards.
 
-###Health needs
+### Health needs
 We’ll always make reasonable adjustments for contractors with health issues and we don’t just hire “healthy” people - your health is your business, not ours. This includes mental health issues as well as physical ones, and we’ll always give you the space you need to work sustainably with us.
 
-###Life Goals
+### Life Goals
 We can’t guarantee that working with us will help you achieve your work and life goals (wait, what?) but we’ll communicate with you like an adult at all times and if your aims don’t intersect with ours, let’s not work together.
 
-###Insurance
+### Insurance
 Contractors need to make sure they have their own insurance, but TDP has public liability insurance that covers them whilst they carry out work for us. We encourage them to cover themselves against other risks, particularly around health, belongings and unemployment.
 
-###Tools
+### Tools
 Since we’re mainly a digital business, a laptop and a phone are the tools of choice. So far no-one’s showed up without these things but we will provide any kit that people need to get their jobs done.
 
-###Social contact
+### Social contact
 We are based in a co-working space, which we find helps us to stay centred. I personally hate working in a space on my own and will often relocate from my home office to somewhere with a bit of stuff going on. However, not everyone sees it this way and we will accommodate different working styles and encourage staff to mix it up a bit.
 
-###Timings and venues
+### Timings and venues
 Linked to the above, we expect work to be carried out in its most impactful time and place. Sometimes a meeting is best handled face to face, but not if it’s a 5 minute catch up with someone who is hundreds of miles away. Staff are expected to make decisions on these things based on business value, and to consult supervisory staff or directors if they are unsure. Similarly we want to provide an office environment that supports productivity and is comfortable: we want to know if there’s anything we can do in terms of providing furniture, space, coffee, doughnuts etc.
 
-###Credit
+### Credit
 Although the IP created during your time with TDP belongs to us, that doesn’t mean you won’t be credited. Good work will always generate formal accreditation, praise and good references to enable you to build on it for future work. We are similarly always happy for you to talk about the work you have done, we try and run the organisation as openly as possible.
 
-###Alignment
+### Alignment
 We’ll always be clear about
 - How much time, and when, we expect you to work with us
 - Our approach to doing business as a social enterprise
 - The scale, sources and sustainability of our funding
 We aim to be as transparent about our organisation as possible. We’ll also be clear about our personal beliefs but that won’t mean we’ll discriminate against you if you have different ones. There’s a process if you feel discriminated against with a range of options for you to use to pursue remediation.
 
-###Travel
+### Travel
 We try to minimise business travel wherever possible and locate our team close to our base in Plymouth. One of the conditions of our initial funding was to support Plymouth-based staff and organisations as much as possible and so that is what we do.
 
-###Learning
+### Learning
 What will you learn while working with us? Well, that’s mainly up to you but we definitely hope you’ll find out some things about Open Data.
 
-###Payment upfront?
+### Payment upfront?
 As a matter of policy, contractors should never have to pay for anything upfront as a result of working with us. If you need something, we expect that we would talk at the beginning of your contract and we’ll arrange to get it for you. We won’t be able to pay you up front, however - but if you do arrive at us in a distressed state as a result of someone else not paying you then we can arrange to pay your invoices much more quickly.
 
 
