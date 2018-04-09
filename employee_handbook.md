@@ -159,7 +159,8 @@ Although the IP created during your time with TDP belongs to us, that doesn’t 
 We’ll always be clear about
 - How much time, and when, we expect you to work with us
 - Our approach to doing business as a social enterprise
-- The scale, sources and sustainability of our funding
+- The scale, sources and sustainability of our funding.
+
 We aim to be as transparent about our organisation as possible. We’ll also be clear about our personal beliefs but that won’t mean we’ll discriminate against you if you have different ones. There’s a process if you feel discriminated against with a range of options for you to use to pursue remediation.
 
 ### Travel
