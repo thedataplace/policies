@@ -172,7 +172,7 @@ What will you learn while working with us? Well, that’s mainly up to you but w
 As a matter of policy, contractors should never have to pay for anything upfront as a result of working with us. If you need something, we expect that we would talk at the beginning of your contract and we’ll arrange to get it for you. We won’t be able to pay you up front, however - but if you do arrive at us in a distressed state as a result of someone else not paying you then we can arrange to pay your invoices much more quickly.
 
 
-### Leave
+## Leave
 You are entitled to 20 days/weeks holiday per year for a full time working week. Part time employees will have their holiday entitlement proportionate to their normal hours of work as stated in the Contract of Employment. This will include a pro rata entitlement to Public Holidays. If you join The Data Place part way through a holiday year you are entitled to the appropriate portion of leave based on the number of completed months of service.  
 
 ### Holiday Year
