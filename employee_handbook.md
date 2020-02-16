@@ -63,7 +63,7 @@ The Data Place has a formal procedure for dealing with these issues which you ca
 
 ## Performance and Behaviour at Work
 ### Data Protection and Confidentiality
-You must be aware of and comply with all elements of the Data Protection Act 1998. No employee should disclose any confidential information either while employed or after having left the organisation, unless specifically given permission to do so. Any breach of confidentiality will be dealt with under the disciplinary procedures and may lead to dismissal.  
+You must be aware of and comply with all elements of the General Data perotection Regulations (GDPR). No employee should disclose any confidential information either while employed or after having left the organisation, unless specifically given permission to do so. Any breach of confidentiality will be dealt with under the disciplinary procedures and may lead to dismissal.  
 
 ### Consumption of alcohol and drug abuse
 The organisation forbids the consumption of alcohol and use or storage of drugs in the workplace, nor will it permit any employee to work whilst under the influence of alcohol or drugs. Any such instances will be dealt with under the disciplinary procedure and may lead to your summary dismissal.  
@@ -77,7 +77,7 @@ Generally a conflict of interests exists when an employee is involved in an acti
 - which provides products or services directly to, or purchase products or services from The Data Place
 - which subjects the employee to unreasonable time demands that prevent the employee from devoting proper attention to his or her responsibilities to The Data Place
 - which is so operated that the employee’s involvement with the outside business activity will reflect adversely on The Data Place.  
-Should you be in doubt as to whether an activity involves a conflict, you should discuss the situation with your manager.  
+Should you be in doubt as to whether an activity involves a conflict, you should discuss the situation with a board member.  
 
 ### Bribery and other Corrupt Behaviour 
 The Company has a strict anti-bribery and corruption policy in line with the Bribery Act (2010). A bribe is defined as: giving someone a financial or other advantage to encourage that person to perform their functions or activities improperly or to reward that person for having already done so. 
@@ -107,11 +107,11 @@ Certain employees of The Data Place may be required to undergo a criminal record
 Your prime source of information about your role or the organisation is your line manager. It is part of his or her job to inform, answer questions and listen to constructive opinions, comments or suggestions. In addition, we have regular staff meeting and team meetings.  
 
 ### Task and project management
-Projects are logged, managed and monitored using Asana. When you join The Data Place you will be added to the Asana organisation and any set tasks will be allocated to you there after being discussed and assigned with your line manager. We ask all staff and contractors to log in to Asana and check for tasks and queries each work day, and we expect everyone to deal promptly with items in their inbox or on their task list.  
+Projects are logged, managed and monitored using software tools. When you join The Data Place you will be added to the relevant software tools and any set tasks will be allocated to you there after being discussed and assigned with your line manager. We ask all staff and contractors to check for tasks and queries each work day, and we expect everyone to deal promptly with items in their inbox or on their task list.  
 
 ## Pay
 ### Contractor payments
-We ask contractors to log their hours in Asana, and to invoice us at the end of each month worked according to the number of hours logged. We aim to pay invoices promptly, ideally within 15 days and no later than 30 days after the date of the invoice. If you have an issue with an unpaid invoice issued to The Data Place, raise the issue with your line manager in the first instance and they will investigate.  
+We ask contractors to log their hours, and to invoice us at the end of each month worked according to the number of hours logged. We aim to pay invoices promptly, ideally within 15 days and no later than 30 days after the date of the invoice. If you have an issue with an unpaid invoice issued to The Data Place, raise the issue with your line manager in the first instance and they will investigate.  
 
 ### Payment of salaries
 Salaries are paid on the last working day of each calendar month by cheque/BACS transfer. An individual payslip showing gross pay, fixed and variable deductions and net pay will be given to you each month. Your starting salary is that stated in your contract of employment. We will let you know of any subsequent changes to your salary which is normally reviewed annually.  
@@ -231,7 +231,7 @@ A written warning may be given immediately if it is felt that the matter is seri
 A final written warning may be given if an initial offence is very serious or if conduct, performance or attendance remains unsatisfactory following a verbal or written warning. It may also be given if an incident of unsatisfactory performance or conduct occurs following a previous verbal or written warning. Your line manager or Director will invite you to a hearing to discuss the problem and may give you a final written warning. The final written warning will state that any recurrence of the offence, or further misconduct of a similar nature within 12 months will result in dismissal. Final written warnings will be kept on your personnel file.  
 
 ### Dismissal
-If, following a final written warning, your performance, conduct or attendance does not improve significantly or further misconduct occurs, you may be dismissed. Dismissal will be authorised by (insert name). Your line manager or Director will invite you to a hearing to discuss the problem, informing you that the disciplinary meeting may lead to your dismissal. Should the meeting result in dismissal, you will be given an amount of notice equivalent to that specified in your Contract of Employment or pay in lieu of such notice. You will have the right to appeal against the decision but where the notice period would expire before the outcome of the appeal is known, you will be suspended without pay until the appeal process is completed. You will receive a written statement of your dismissal within 14 days of the dismissal hearing.  
+If, following a final written warning, your performance, conduct or attendance does not improve significantly or further misconduct occurs, you may be dismissed. Dismissal will be authorised by a Director. Your line manager (or a Director) will invite you to a hearing to discuss the problem, informing you that the disciplinary meeting may lead to your dismissal. Should the meeting result in dismissal, you will be given an amount of notice equivalent to that specified in your Contract of Employment or pay in lieu of such notice. You will have the right to appeal against the decision but where the notice period would expire before the outcome of the appeal is known, you will be suspended without pay until the appeal process is completed. You will receive a written statement of your dismissal within 14 days of the dismissal hearing.  
 At all stages of the disciplinary procedure you will have the right to be accompanied by a Trade Union Representative or a work colleague. You will also be given the right to appeal against all disciplinary warnings.  
 
 ### Gross Misconduct
@@ -239,7 +239,7 @@ Gross misconduct includes any action which threatens The Data Place, its work or
 This list is not exhaustive and actions not listed above may also constitute gross misconduct. If you are accused of an act of gross misconduct you will be suspended on full pay for up to 10 working days whilst an investigation takes place. If, after investigation, it is decided that you have found to be negligent or have committed an act or acts of gross misconduct, you will be dismissed without notice and without pay in lieu of notice.  
 
 ### Suspension
-If a senior manager, having reviewed the evidence, considers that the matter may result in your dismissal, with or without notice, or that your presence may result in a witness in any disciplinary proceedings feeling intimidated, you may be suspended on full pay. The fact of such suspension will not be taken into account in any disciplinary proceedings.  
+If a director, having reviewed the evidence, considers that the matter may result in your dismissal, with or without notice, or that your presence may result in a witness in any disciplinary proceedings feeling intimidated, you may be suspended on full pay. The fact of such suspension will not be taken into account in any disciplinary proceedings.  
 
 ### Appeals
 You are entitled to appeal against any disciplinary warning or decision to dismiss. To do so you must notify your line manager or, in his/her absence, any senior member of staff, in writing within five working days of receiving the written warning or other written notification of any decision. Your letter must specify the issues you wish to appeal against or contest.  
