@@ -9,7 +9,7 @@ As a social enterprise, The Data Place is serious about helping end inequality o
 - remuneration (paying staff at least a Living Wage and not discriminating against any specific group in this respect)
 - improving the wider diversity of our staff by being positive about employing those under-represented in the technology industry, such as older people, women, those from BAME backgrounds, those with disabilities, including mental health, and LGBT candidates
 - providing ongoing development for staff in both training and development opportunities
-- allowing Trade Union representation, even for staff employed as contractors, and having processes in place to ensure that staff have independent authorities to appeal to in case of any problems
+- allowing Trade Union representation, even for staff employed as contractors, and having processes in place to ensure that staff have independent authorities to appeal to in case of any problems.
 Additionally, we apply the above principles to our suppliers and customers and will not engage with those which flout those principles; our company reputation is worth more than contracts that involve the exploitation of workers.  
 
 ## Equal Opportunities 
@@ -34,8 +34,8 @@ In adopting these principles, The Data Place:
 The Company believes that the working environment should at all times be supportive of the dignity and respect of individuals. If a complaint of harassment is brought to the attention of management, it will be investigated promptly and appropriate action will be taken.  
 
 ### What and How of Harassment
-Sexual harassment is defined as “unwanted conduct of a sexual nature, or other conduct based on sex, affecting the dignity of women and men at work”.  This can include unwelcome physical, verbal or non-verbal conduct.  
-Harassment can be defined as conduct, which is unwanted and offensive and affects the dignity of an individual or group of individuals. People can be subject to harassment on a wide variety of grounds including:  
+Sexual harassment is defined as “unwanted conduct of a sexual nature, or other conduct based on sex, affecting the dignity of women and men at work”.  Note that we recognise the non-binary nature of gender as a spectrum, hence the protections and specifics of this section extend to anyone who identifies as neither male nore female. Sexual harassment can include unwelcome physical, verbal or non-verbal conduct.  
+Harassment can be defined as conduct which is unwanted and offensive and affects the dignity of an individual or group of individuals. People can be subject to harassment on a wide variety of grounds including:  
 - race, ethnic origin, nationality or skin colour
 - sex or sexual orientation
 - religious or political convictions
@@ -54,10 +54,8 @@ Forms may include:
 - coercion ranging from pressure for sexual favours to pressure to participate in political/religious groups
 - intrusion by pestering, spying, following someone
 - bullying
-- real or suspected infection with a blood borne virus (eg AIDS/HIV) 
-- membership of a trade union or activities associated with membership.  
 
-If you feel you are being harassed you are strongly encouraged to seek early advice/support from your line manager. If your feel your line manager is harassing you, then you should contact his/her immediate line manager.  
+If you feel you are being harassed you are strongly encouraged to seek early advice/support from your line manager. If your feel your line manager is harassing you, then you should contact their immediate line manager.  
 You should also keep a written record detailing the incidents of harassment and any requests made to the harasser to stop.  This written record should be made as soon as possible after the events giving rise to concern and should include dates, times, places and the circumstances of what happened.  
 The Data Place has a formal procedure for dealing with these issues which you can obtain from your line manager or any senior member of staff.  
 
@@ -72,7 +70,7 @@ The organisation forbids the consumption of alcohol and use or storage of drugs 
 All employees have a responsibility to act in good faith and to promote the good name and effectiveness of their employer. You are expected to be trustworthy and to conduct yourself reasonably at all times. No employee is permitted to give press or other media interviews or assist with or be involved in the publication of any article relating to the business affairs of the organisation or in relation to the organisation’s intellectual property, without prior consent from a member of senior management.  
 
 ### Conflict of Interest
-You should not, directly or indirectly, engage in, or have any interest, financial or otherwise, in any other business enterprise which interferes or is likely to interfere with your independent exercise of judgement in THe Data Place’s best interest.  
+You should not directly or indirectly engage in or have any interest, financial or otherwise, in any other business enterprise which interferes or is likely to interfere with your independent exercise of judgement in THe Data Place’s best interest.  
 Generally a conflict of interests exists when an employee is involved in an activity:
 - which provides products or services directly to, or purchase products or services from The Data Place
 - which subjects the employee to unreasonable time demands that prevent the employee from devoting proper attention to his or her responsibilities to The Data Place
@@ -90,7 +88,7 @@ The Expenses Policy provides guidance on the types of expenses which can be clai
 ## Joining The Data Place
 ### Probationary period
 On joining The Data Place you will serve a 1 month probationary period. During this time you will be thinking about whether you wish to remain working with us. Your line manager, at the same time, will be assessing your suitability for your role.  
-If you do not reach the standards required by The Data Place, your employment may be terminated at any time during the probationary period with one week’s notice. The Data Place reserves the right to extend the probationary period where required. The ACAS Code on Discipline, Dismissal and Grievance Procedures do not apply during the probationary period.  
+If you do not reach the standards required by The Data Place, your employment may be terminated at any time during the probationary period with one week’s notice. The Data Place reserves the right to extend the probationary period where required. The ACAS Code on Discipline, Dismissal and Grievance Procedures does not apply during the probationary period.  
 
 ### Induction
 We are keen that you have every assistance to help you settle into your role quickly. Your induction programme sets out what to expect on your first day and the induction process we will follow. You will meet your colleagues and you will receive information on The Data Place, your terms and conditions of employment, policies and procedures, health and safety.  
@@ -104,7 +102,7 @@ Certain employees of The Data Place may be required to undergo a criminal record
 
 ## How we work
 ### Communications
-Your prime source of information about your role or the organisation is your line manager. It is part of his or her job to inform, answer questions and listen to constructive opinions, comments or suggestions. In addition, we have regular staff meeting and team meetings.  
+Your prime source of information about your role or the organisation is your line manager. It is part of their job to inform, answer questions and listen to constructive opinions, comments or suggestions. In addition, we have regular staff meeting and team meetings.  
 
 ### Task and project management
 Projects are logged, managed and monitored using software tools. When you join The Data Place you will be added to the relevant software tools and any set tasks will be allocated to you there after being discussed and assigned with your line manager. We ask all staff and contractors to check for tasks and queries each work day, and we expect everyone to deal promptly with items in their inbox or on their task list.  
@@ -242,7 +240,7 @@ This list is not exhaustive and actions not listed above may also constitute gro
 If a director, having reviewed the evidence, considers that the matter may result in your dismissal, with or without notice, or that your presence may result in a witness in any disciplinary proceedings feeling intimidated, you may be suspended on full pay. The fact of such suspension will not be taken into account in any disciplinary proceedings.  
 
 ### Appeals
-You are entitled to appeal against any disciplinary warning or decision to dismiss. To do so you must notify your line manager or, in his/her absence, any senior member of staff, in writing within five working days of receiving the written warning or other written notification of any decision. Your letter must specify the issues you wish to appeal against or contest.  
+You are entitled to appeal against any disciplinary warning or decision to dismiss. To do so you must notify your line manager or, in their absence, any senior member of staff, in writing within five working days of receiving the written warning or other written notification of any decision. Your letter must specify the issues you wish to appeal against or contest.  
 
 ### Grievance procedure
 The Data Place’s aim is always to encourage employees to have an open and honest relationship with their line manager and colleagues and to raise any concerns about any aspect of their employment in an appropriate manner. This procedure should be used to settle all disputes or grievances which you may wish to raise concerning other employees or volunteers, your work, the organisation or other matters relating to your employment or volunteering. The purpose is to settle any grievance fairly, simply and quickly.  
