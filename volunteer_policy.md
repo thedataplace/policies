@@ -15,7 +15,7 @@ In adopting this volunteer policy The Data Place wishes to:
 * Set out the principles governing the involvement of volunteers and provide a set of guidelines
 * to ensure good practice in working with volunteers.
 * Encourage and enable, rather than restrict, the involvement of volunteers.
-* 
+
 This volunteer policy and accompanying guidelines are intended for use by The Data Place paid staff and volunteers.
 
 ## Volunteer Policy Statement
@@ -74,12 +74,12 @@ On the basis of their voluntary work, volunteers will have the right to request 
 ### Monitoring & Evaluation
 The Data Place will systemically monitor and evaluate its involvement of volunteers with reference to this Volunteer Policy.
 
-## Review
+#### Review
 This policy comes into force on 1st June 2023 and The Data Place commits itself to review the policy as and 
 when changes in legislation or other factors make this necessary. The policy will be subject to a 
 comprehensive review two years after its introduction. 
 
-### Review date: due 1st June 2025  
+##### Review date: due 1st June 2025  
 
 ## Guidelines for Involving Volunteers  
 These guidelines are intended for use along with the policy statement. 
@@ -119,9 +119,7 @@ volunteer in a week’s time.
 ### Selection
 All volunteers should complete an application form. Two written references will be required. 
 If the volunteer is to carry out specialised work (e.g., IT support) at least one reference 
-should relate directly to this.  
-
-If volunteers may be working with vulnerable people, or in positions of trust, they should be asked 
+should relate directly to this. If volunteers may be working with vulnerable people, or in positions of trust, they should be asked 
 to provide information on their application form about any criminal convictions that they may have.   
 
 All information should be dealt with in the strictest confidence and should not necessarily 
@@ -130,11 +128,9 @@ prejudice the person being accepted for voluntary work.
 ### Records
 Minimum details should be kept on volunteers. This will include the application form, 
 references, placement details, relevant information regarding the person’s health, correspondence and 
-any other relevant information such as emergency contact details.  
-
-Record keeping must be secure but accessible to other members of staff if you are absent.  
-
-Data Protection legislation (currently GDPR) enables people to access information held about them via a Subject Access Request.
+any other relevant information such as emergency contact details. Record keeping must be secure but 
+accessible to other members of staff if you are absent. Data Protection legislation (currently GDPR) 
+enables people to access information held about them via a Subject Access Request.
 
 ### Induction
 Induction sessions should be provided for all new volunteers and should cover:   
@@ -152,7 +148,6 @@ Induction sessions should be provided for all new volunteers and should cover:
 * Health and Safety.
 * Meeting staff.
 
-
 During induction, volunteers should receive the Employee Handbook.  
 
 ## Expectations of Volunteers
@@ -169,24 +164,23 @@ The Data Place should expect volunteers to:
 ### Placement
 Once a suitable voluntary placement has been identified, details about the frequency and 
 length of commitment and nature of the voluntary activity should be determined and an 
-established trial period agreed. 
-The Data Place reserves the right to ask volunteers to leave and will give reasons in writing if requested.
+established trial period agreed. The Data Place reserves the right to ask volunteers to 
+leave and will give reasons in writing if requested.
 
 ### Support, Supervision and Problem-Solving
 Regular support/supervision should be available to each volunteer.  The type and level 
 of support will depend on the needs of the volunteer and the nature of their role. 
-Full information on this will be provided during induction.  
-
-Each volunteer should have a clearly identified supervisor who is responsible for the day-to-day 
+Full information on this will be provided during induction. Each volunteer should have a 
+clearly identified supervisor who is responsible for the day-to-day 
 management and guidance of the volunteer and who will be able to offer advice, support and 
 feedback on a regular basis.  
 
 If a complaint about a volunteer arises, refer to the grievance policy.  
 
 ### Expenses
-The procedures for claiming expenses should be clear and accessible.  
-All agreed out of pocket expenses should be reimbursed on production of receipts.  
-The pro forma should be used and the supervisor should liaise with admin staff.  
+The procedures for claiming expenses should be clear and accessible. All agreed out of pocket 
+expenses should be reimbursed on production of receipts. The pro forma should be used and the 
+supervisor should liaise with admin staff.  
 
 ### Insurance  
 It should be ensured that volunteers have appropriate insurance cover in terms of employers and public liability.
