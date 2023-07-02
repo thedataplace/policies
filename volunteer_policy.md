@@ -79,68 +79,115 @@ This policy comes into force on 1st June 2023 and The Data Place commits itself 
 when changes in legislation or other factors make this necessary. The policy will be subject to a 
 comprehensive review two years after its introduction. 
 
-### Review date: due 1st June 2025
-Guidelines for Involving Volunteers
-These guidelines are intended for use along with the policy statement. They give further detail on recommended good practice in the involvement of volunteers within The Data Place.
-Preparation
-Prior to recruiting volunteers, full consultation and discussion should take place with users of the service, paid staff and unions to satisfy that there is a genuine need for volunteers and to develop a clear description of their role. A contact person within the section proposing to involve volunteers should be identified and the staff time and expenses to train, support and reimburse volunteers determined.
-Recruitment
-The Data Place has an Equal Opportunities Policy and will prevent discrimination particularly on the grounds of gender, gender presentation, marital status, disability, race, colour, religious belief, political belief, sexuality, nationality, ethnic origin, age, trade union activity, responsibility for dependents or employment status. (See statement and policy for details)
+### Review date: due 1st June 2025  
+
+## Guidelines for Involving Volunteers  
+These guidelines are intended for use along with the policy statement. 
+They give further detail on recommended good practice in the involvement of 
+volunteers within The Data Place.  
+
+### Preparation
+Prior to recruiting volunteers, full consultation and discussion should take place with users 
+of the service, paid staff and unions to satisfy that there is a genuine need for volunteers and 
+to develop a clear description of their role. A contact person within the section proposing to 
+involve volunteers should be identified and the staff time and expenses to train, support 
+and reimburse volunteers determined.  
+
+### Recruitment
+The Data Place has an Equal Opportunities Policy and will prevent discrimination particularly 
+on the grounds of gender, gender presentation, marital status, disability, race, colour, religious belief, 
+political belief, sexuality, nationality, ethnic origin, age, trade union activity, responsibility for 
+dependents or employment status. (See statement and policy for details).  
+
 In order to reach a wide section of the community, recruitment should be by a variety of means. 
-Positive action in recruitment may be used for specific voluntary tasks.  For example, specific work with minority ethnic groups.
-Initial Contact
-People interested in becoming volunteers with The Data Place should be invited for an informal talk with the appropriate contact person.  They should:
-Be given written information to take away.
-Have their role explained and how it fits in with The Data Place’s overall aims and ethos.
-Have the next stages of becoming a volunteer with The Data Place outlined.
-If the volunteer wishes to proceed with the application at this stage, the contact person should fill out the application form for the volunteer (getting referees’ details) and ask the volunteer to sign. 
-If the volunteer is undecided, agree the next step e.g., for the contact person to phone the potential volunteer in a week’s time.
-Selection
-All volunteers should complete an application form. Two written references will be required. If the volunteer is to carry out specialised work (e.g., IT support) at least one reference should relate directly to this.
-If volunteers may be working with vulnerable people, or in positions of trust, they should be asked to provide information on their application form about any criminal convictions that they may have.
-All information should be dealt with in the strictest confidence and should not necessarily prejudice the person being accepted for voluntary work.
-Records
-Minimum details should be kept on volunteers. This will include the application form, references, placement details, relevant information regarding the person’s health, correspondence and any other relevant information such as emergency contact details.
-Record keeping must be secure but accessible to other members of staff if you are absent.
+Positive action in recruitment may be used for specific voluntary tasks.  For example, 
+specific work with minority ethnic groups.  
+
+### Initial Contact
+People interested in becoming volunteers with The Data Place should be invited for an 
+informal talk with the appropriate contact person.  They should:  
+
+* Be given written information to take away.
+* Have their role explained and how it fits in with The Data Place’s overall aims and ethos.
+* Have the next stages of becoming a volunteer with The Data Place outlined.
+
+If the volunteer wishes to proceed with the application at this stage, the contact person should 
+fill out the application form for the volunteer (getting referees’ details) and ask the volunteer to sign. 
+If the volunteer is undecided, agree the next step e.g., for the contact person to phone the potential 
+volunteer in a week’s time.  
+
+### Selection
+All volunteers should complete an application form. Two written references will be required. 
+If the volunteer is to carry out specialised work (e.g., IT support) at least one reference 
+should relate directly to this.  
+
+If volunteers may be working with vulnerable people, or in positions of trust, they should be asked 
+to provide information on their application form about any criminal convictions that they may have.   
+
+All information should be dealt with in the strictest confidence and should not necessarily 
+prejudice the person being accepted for voluntary work.  
+
+### Records
+Minimum details should be kept on volunteers. This will include the application form, 
+references, placement details, relevant information regarding the person’s health, correspondence and 
+any other relevant information such as emergency contact details.  
+
+Record keeping must be secure but accessible to other members of staff if you are absent.  
+
 Data Protection legislation (currently GDPR) enables people to access information held about them via a Subject Access Request.
-Induction
-Induction sessions should be provided for all new volunteers and should cover: 
-Role of volunteers.
-Responsibilities of volunteers.
-Arrangements for training, support and supervision.
-Contact person.
-Need for confidentiality.
-Ethos, mission and values.
-System for payment of expenses.
-Problem-solving procedures.
-Background to The Data Place.
-Building orientation.
-Health and Safety.
-Meeting staff.
-During induction, volunteers should receive the Volunteer Handbook.
+
+### Induction
+Induction sessions should be provided for all new volunteers and should cover:   
+
+* Role of volunteers.
+* Responsibilities of volunteers.
+* Arrangements for training, support and supervision.
+* Contact person.
+* Need for confidentiality.
+* Ethos, mission and values.
+* System for payment of expenses.
+* Problem-solving procedures.
+* Background to The Data Place.
+* Building orientation.
+* Health and Safety.
+* Meeting staff.
 
 
+During induction, volunteers should receive the Employee Handbook.  
 
-Expectations of Volunteers
-The Data Place should expect volunteers to:
-Participate in induction sessions.
-Comply with existing policies and procedures.
-Undertake voluntary work at agreed times.
-Inform relevant staff if unable to attend.
-Give some notice if unable to continue volunteering.
-Raise any issues of concern relating to their voluntary work with the contact person.
-Agree with the aims and ethos of the organisation.
-Placement
-Once a suitable voluntary placement has been identified, details about the frequency and length of commitment and nature of the voluntary activity should be determined and an established trial period agreed.
+## Expectations of Volunteers
+The Data Place should expect volunteers to:  
+
+* Participate in induction sessions.  
+* Comply with existing policies and procedures.  
+* Undertake voluntary work at agreed times.  
+* Inform relevant staff if unable to attend.  
+* Give some notice if unable to continue volunteering.  
+* Raise any issues of concern relating to their voluntary work with the contact person.  
+* Agree with the aims and ethos of the organisation.
+
+### Placement
+Once a suitable voluntary placement has been identified, details about the frequency and 
+length of commitment and nature of the voluntary activity should be determined and an 
+established trial period agreed. 
 The Data Place reserves the right to ask volunteers to leave and will give reasons in writing if requested.
-Support, Supervision and Problem-Solving
-Regular support/supervision should be available to each volunteer.  The type and level of support will depend on the needs of the volunteer and the nature of their role. Full information on this will be provided during induction.
-Each volunteer should have a clearly identified supervisor who is responsible for the day-to-day management and guidance of the volunteer and who will be able to offer advice, support and feedback on a regular basis.
-If a complaint about a volunteer arises, refer to the grievance policy.
-Expenses
-The procedures for claiming expenses should be clear and accessible.
-All agreed out of pocket expenses should be reimbursed on production of receipts.
-The pro forma should be used and the supervisor should liaise with admin staff.
-Insurance
+
+### Support, Supervision and Problem-Solving
+Regular support/supervision should be available to each volunteer.  The type and level 
+of support will depend on the needs of the volunteer and the nature of their role. 
+Full information on this will be provided during induction.  
+
+Each volunteer should have a clearly identified supervisor who is responsible for the day-to-day 
+management and guidance of the volunteer and who will be able to offer advice, support and 
+feedback on a regular basis.  
+
+If a complaint about a volunteer arises, refer to the grievance policy.  
+
+### Expenses
+The procedures for claiming expenses should be clear and accessible.  
+All agreed out of pocket expenses should be reimbursed on production of receipts.  
+The pro forma should be used and the supervisor should liaise with admin staff.  
+
+### Insurance  
 It should be ensured that volunteers have appropriate insurance cover in terms of employers and public liability.
 
